@@ -1,2 +1,11 @@
 bangladeshelectiondata
 ======================
+<p><h5><strong>Bangladesh Election Data</strong> is a project to collect, open, visualize, and analyze election-related data on an ongoing basis. The project is being implemented by <a href="http://www.democracyinternational.com" target="_blank">Democracy International</a>, a non-partisan organization that supports democracy and good governance worldwide.<br/><br/>The purpose of Bangladesh Election Data is to present a range of stakeholders - election officials, government officials, political contestants, civil society organizations, media, citizens, and the international community - with better information to make better decisions that lead to better outcomes.<br/><br/>We aim to achieve this goal by:<br/><br/>
+<ul>Creating a centralized hub of election-related data, maps, and analysis that facilitate data-driven decision-making to improve electoral processes.</ul>
+<ul>Presenting information in a highly accessible way so that stakeholders can measure progress and identify trends from one election cycle to the next.</ul>
+<ul>Providing a meaningful lens through which electoral developments or election observation findings can be contextualized and understood.</ul><br/>
+
+Bangladesh Election Data is an open source project hosted on <a href="https://www.github.com" target="_blank">Github</a>.<br/><br/> Interactive maps were made possible by <a href="https://www.mapbox.com" target="_blank">MapBox</a>.<br/><br/> Interactive data tables were made possible by <a href="https://www.dynatable.com" target="_blank">Dyntable</a>.<br/><br/> All data used on Bangladesh Election Data was opened by <a href="http://di-bangladesh.com" target="_blank">Democracy International-Bangladesh</a> staff and volunteers.<br/><br/> The data is licensed for redistribution under CC By S.A 3.0 and can be downloaded <a href="https://github.com/mbaldassaro/bangladeshelectiondata" target"=_blank">here</a>.</h5><br/>
+             
+             <h6 align="center"><a href="http://www.democracyinternational.com" target="_blank"><img src="img/di_logo.png" height=30 width=150/ ></a></h6><br/>
+         <h6 align="right"><em>Cover photo credit: DI-Bangladesh, Gazipur City Corporation By-Election, 20 November 2013</em></h6></p>
